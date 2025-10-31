@@ -1,0 +1,31 @@
+1761951211.965496212:start:download            : host-skeleton
+1761951211.982715550:end  :download            : host-skeleton
+1761951212.013301600:start:extract             : host-skeleton
+1761951212.035763791:end  :extract             : host-skeleton
+1761951212.070317541:start:patch               : host-skeleton
+1761951212.116842530:end  :patch               : host-skeleton
+1761951212.166213940:start:configure           : host-skeleton
+1761951212.224025990:end  :configure           : host-skeleton
+1761951212.266291092:start:build               : host-skeleton
+1761951212.275421032:end  :build               : host-skeleton
+1761951212.304533528:start:install-host        : host-skeleton
+1761951212.343420590:end  :install-host        : host-skeleton
+1761951212.518796953:start:download            : host-cmake
+1761951214.871900782:end  :download            : host-cmake
+1761951214.911980782:start:download            : host-tar
+1761951217.521191816:end  :download            : host-tar
+1761951217.562196892:start:extract             : host-tar
+1761951218.097460801:end  :extract             : host-tar
+1761951218.141124775:start:patch               : host-tar
+1761951218.406890589:end  :patch               : host-tar
+1761951218.454342489:start:configure           : host-tar
+1761951294.356481806:end  :configure           : host-tar
+1761951294.390177217:start:build               : host-tar
+1761951321.007747386:end  :build               : host-tar
+1761951321.046003227:start:install-host        : host-tar
+1761951322.353507560:end  :install-host        : host-tar
+1761951322.604030097:start:extract             : host-cmake
+1761951326.083935597:end  :extract             : host-cmake
+1761951326.118218180:start:patch               : host-cmake
+1761951326.793039219:end  :patch               : host-cmake
+1761951326.889269016:start:configure           : host-cmake
