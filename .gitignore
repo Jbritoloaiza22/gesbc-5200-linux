@@ -1,1 +1,27 @@
-buildroot/buildroot-mchp/output
+# Buildroot output and downloads
+buildroot/buildroot-mchp/output/
+buildroot/buildroot-mchp/dl/
+buildroot/buildroot-mchp/build/
+
+# Buildroot source tree (optional, if not versioned)
+buildroot/buildroot-mchp/package/
+buildroot/buildroot-mchp/support/
+buildroot/buildroot-mchp/system/
+buildroot/buildroot-mchp/toolchain/
+buildroot/buildroot-mchp/utils/
+
+# Kernel source (if not versioned)
+kernel/
+
+# Compiled artifacts
+*.o
+*.ko
+*.mod.c
+*.dtb
+*.log
+
+# Editor configs
+.vscode/
+
+
+
