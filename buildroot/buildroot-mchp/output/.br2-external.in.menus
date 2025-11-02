@@ -1,0 +1,10 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+menu "External options"
+
+comment "MCHP (in /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip)"
+source "/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip/Config.in"
+
+endmenu
