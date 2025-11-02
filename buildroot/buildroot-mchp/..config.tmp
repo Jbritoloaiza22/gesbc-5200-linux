@@ -3422,7 +3422,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "-g0c7cb6c-dirty"
+ifneq "$(BR2_VERSION_FULL)" "-g57045bc-dirty"
 /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/buildroot-config/auto.conf: FORCE
 endif
 

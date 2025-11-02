@@ -1,11 +1,11 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Buildroot linux4microchip-2025.04-dirty Configuration
+# Buildroot -g0c7cb6c-dirty Configuration
 #
 BR2_HAVE_DOT_CONFIG=y
 BR2_EXTERNAL_NAMES="MCHP"
 BR2_EXTERNAL_MCHP_PATH="/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip"
-BR2_EXTERNAL_MCHP_VERSION="linux4microchip-2025.04"
+BR2_EXTERNAL_MCHP_VERSION="-g0c7cb6c-dirty"
 BR2_HOST_GCC_AT_LEAST_4_9=y
 BR2_HOST_GCC_AT_LEAST_5=y
 BR2_HOST_GCC_AT_LEAST_6=y
