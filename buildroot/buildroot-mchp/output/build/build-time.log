@@ -3144,3 +3144,7 @@
 1762178657.563940119:end  :build               : wilcmchp_firmware
 1762178657.596784580:start:install-target      : wilcmchp_firmware
 1762178657.644486324:end  :install-target      : wilcmchp_firmware
+1762211387.206975899:start:rsync               : linux-headers
+1762211387.608294035:end  :rsync               : linux-headers
+1762211387.648475329:start:rsync               : linux
+1762211387.698101786:end  :rsync               : linux
