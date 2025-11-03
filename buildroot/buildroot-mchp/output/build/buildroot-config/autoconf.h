@@ -1,7 +1,7 @@
 /*
  *
  * Automatically generated file; DO NOT EDIT.
- * Buildroot -g57045bc-dirty Configuration
+ * Buildroot -g95b98ef-dirty Configuration
  *
  */
 #define BR2_TOOLCHAIN_BUILDROOT_GLIBC 1
@@ -125,7 +125,7 @@
 #define BR2_TARGET_GENERIC_ROOT_PASSWD ""
 #define BR2_TOOLCHAIN_HEADERS_AT_LEAST_5_7 1
 #define BR2_PACKAGE_HOST_BINUTILS_SUPPORTS_CFI 1
-#define BR2_LINUX_KERNEL_DEFCONFIG "sama5"
+#define BR2_LINUX_KERNEL_DEFCONFIG "gesbc5200"
 #define BR2_SYSTEM_DHCP "eth0"
 #define BR2_PACKAGE_LIBTASN1 1
 #define BR2_HG "hg"
@@ -717,7 +717,7 @@
 #define BR2_ARM_CPU_ARMV7A 1
 #define BR2_CCACHE 1
 #define BR2_TOOLCHAIN_HEADERS_AT_LEAST_3_8 1
-#define BR2_DEFCONFIG "/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip/configs/sama5d27_som1_ek_headless_defconfig"
+#define BR2_DEFCONFIG "/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip/configs/gesbc5200_defconfig"
 #define BR2_PACKAGE_MTDEV 1
 #define BR2_PACKAGE_LIBUNWIND_ARCH_SUPPORTS 1
 #define BR2_TOOLCHAIN_HEADERS_AT_LEAST_4_8 1
@@ -789,7 +789,7 @@
 #define BR2_PACKAGE_HOST_GO_HOST_CGO_LINKING_SUPPORTS 1
 #define BR2_PACKAGE_LIBOPENSSL_ENABLE_COMP 1
 #define BR2_PACKAGE_HOST_RUSTC_ARCH "armv7"
-#define BR2_EXTERNAL_MCHP_VERSION "-g57045bc-dirty"
+#define BR2_EXTERNAL_MCHP_VERSION "-g95b98ef-dirty"
 #define BR2_PACKAGE_WIRELESS_TOOLS 1
 #define BR2_TARGET_ROOTFS_OCI_ENTRYPOINT_ARGS ""
 #define BR2_TOOLCHAIN_HEADERS_AT_LEAST_3_19 1

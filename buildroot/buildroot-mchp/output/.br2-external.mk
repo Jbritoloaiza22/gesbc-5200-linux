@@ -12,4 +12,4 @@ BR2_EXTERNAL_DIRS += /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildro
 BR2_EXTERNAL_MKS += /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip/external.mk
 export BR2_EXTERNAL_MCHP_PATH = /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-external-microchip
 export BR2_EXTERNAL_MCHP_DESC = MCHP
-export BR2_EXTERNAL_MCHP_VERSION = -g57045bc-dirty
+export BR2_EXTERNAL_MCHP_VERSION = -g95b98ef-dirty

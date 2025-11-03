@@ -3280,3 +3280,17 @@
 1762034884.228245924:end  :install-target      : linux
 1762034884.259697737:start:install-image       : linux
 1762034884.291290619:end  :install-image       : linux
+1762122938.225962979:start:configure           : host-cmake
+1762123286.923080396:end  :configure           : host-cmake
+1762123286.980403237:start:build               : host-cmake
+1762124041.812122441:end  :build               : host-cmake
+1762124041.844470381:start:install-host        : host-cmake
+1762124043.445112870:end  :install-host        : host-cmake
+1762125582.366972361:start:configure           : linux
+1762125582.976897358:end  :configure           : linux
+1762125583.002235331:start:build               : linux
+1762125938.346459926:end  :build               : linux
+1762125938.371727979:start:install-target      : linux
+1762125938.431709164:end  :install-target      : linux
+1762125938.462860635:start:install-image       : linux
+1762125938.486250980:end  :install-image       : linux
