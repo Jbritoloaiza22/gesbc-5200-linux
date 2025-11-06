@@ -1,6 +1,6 @@
 Checking whether '/usr/bin/gcc -O2  -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib  ' works.
 Try: /usr/bin/gcc
-Line: /usr/bin/gcc -O2  -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib   cmake_bootstrap_225158_test.c -o cmake_bootstrap_225158_test
+Line: /usr/bin/gcc -O2  -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib   cmake_bootstrap_1953259_test.c -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 
 #ifdef __cplusplus
@@ -32,7 +32,7 @@ int main(int argc, char* argv[])
 Test succeeded
 Checking whether '/usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib  ' works.
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib   cmake_bootstrap_225158_test.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib   cmake_bootstrap_1953259_test.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 
 #include <iostream>
@@ -117,7 +117,7 @@ int main()
 Test succeeded
 Checking whether '/usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib' supports 'make_unique'.
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/Checks/cm_cxx_make_unique.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/Checks/cm_cxx_make_unique.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 #include <memory>
 int main()
@@ -129,7 +129,7 @@ int main()
 Test succeeded
 Checking whether '/usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib' supports 'filesystem'.
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/Checks/cm_cxx_filesystem.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/Checks/cm_cxx_filesystem.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 
 #include <filesystem>
@@ -211,7 +211,7 @@ Try: gmake
 1
 gmake works
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_SETENV /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_SETENV /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 /* Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    file Copyright.txt or https://cmake.org/licensing#kwsys for details.  */
@@ -390,7 +390,7 @@ int main()
 ------------------------------------------
 Test succeeded
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_UNSETENV /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_UNSETENV /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 /* Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    file Copyright.txt or https://cmake.org/licensing#kwsys for details.  */
@@ -569,7 +569,7 @@ int main()
 ------------------------------------------
 Test succeeded
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_ENVIRON_IN_STDLIB_H /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_ENVIRON_IN_STDLIB_H /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 /* Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    file Copyright.txt or https://cmake.org/licensing#kwsys for details.  */
@@ -753,7 +753,7 @@ int main()
       |             union
 Test failed to compile
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_STL_HAS_WSTRING /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_STL_HAS_WSTRING /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 /* Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    file Copyright.txt or https://cmake.org/licensing#kwsys for details.  */
@@ -932,7 +932,7 @@ int main()
 ------------------------------------------
 Test succeeded
 Try: /usr/bin/g++
-Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_EXT_STDIO_FILEBUF_H /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_225158_test
+Line: /usr/bin/g++ -O2 -I/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/include    -L/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -Wl,-rpath,/home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/host/lib -DTEST_KWSYS_CXX_HAS_EXT_STDIO_FILEBUF_H /home/vboxuser/Documents/gesbc-5200-linux/buildroot/buildroot-mchp/output/build/host-cmake-3.31.5/Source/kwsys/kwsysPlatformTestsCXX.cxx -o cmake_bootstrap_1953259_test
 ----------  file   -----------------------
 /* Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
    file Copyright.txt or https://cmake.org/licensing#kwsys for details.  */
